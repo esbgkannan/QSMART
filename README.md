@@ -36,7 +36,7 @@ Please ensure the following software is installed:
 
 ## Test Set
 
-* [GDSC2](https://github.com/esbgkannan/QSMART/tree/master/TestSet/GDSC2) `<https://www.cancerrxgene.org/downloads/bulk_download>`
+* [GDSC2](https://github.com/esbgkannan/QSMART/tree/master/TestSet/GDSC2) `Source: GDSC release 8.0` [ftp://ftp.sanger.ac.uk/pub/project/cancerrxgene/releases/release-8.0/](ftp://ftp.sanger.ac.uk/pub/project/cancerrxgene/releases/release-8.0/)
 	* [CANCER TYPE].csv `(23 cancer types)`
 
 ## Model
